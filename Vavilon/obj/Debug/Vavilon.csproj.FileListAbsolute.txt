@@ -1,0 +1,9 @@
+C:\Users\sps-0\source\repos\WindowsForm\Vavilon\bin\Debug\Vavilon.exe.config
+C:\Users\sps-0\source\repos\WindowsForm\Vavilon\bin\Debug\Vavilon.exe
+C:\Users\sps-0\source\repos\WindowsForm\Vavilon\bin\Debug\Vavilon.pdb
+C:\Users\sps-0\source\repos\WindowsForm\Vavilon\obj\Debug\Vavilon.csproj.AssemblyReference.cache
+C:\Users\sps-0\source\repos\WindowsForm\Vavilon\obj\Debug\Vavilon.Properties.Resources.resources
+C:\Users\sps-0\source\repos\WindowsForm\Vavilon\obj\Debug\Vavilon.csproj.GenerateResource.cache
+C:\Users\sps-0\source\repos\WindowsForm\Vavilon\obj\Debug\Vavilon.csproj.CoreCompileInputs.cache
+C:\Users\sps-0\source\repos\WindowsForm\Vavilon\obj\Debug\Vavilon.exe
+C:\Users\sps-0\source\repos\WindowsForm\Vavilon\obj\Debug\Vavilon.pdb
