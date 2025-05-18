@@ -1,3 +1,5 @@
+<a href="https://miro.com/app/board/uXjVI0TWM-8=/?share_link_id=719609737571"> <img src = "https://img.shields.io/badge/Miro.com-fedc32?style=for-the-badge&logo=miro&logoColor=050038" align=left></img></a>
+
 ## TODO:
  - [x] Сделать перевод из 10->73
  - [ ] Сделать генерацию Страницы
